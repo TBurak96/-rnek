@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkDemo", "EntityFrameworkDemo.csproj", "{F066B4BE-7DB5-4E71-8E3C-11AF310B476D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdoNetDemo", "..\FreeSolution\AdoNetDemo\AdoNetDemo.csproj", "{5FE2B3E6-B17F-4295-9659-B928194D4692}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F066B4BE-7DB5-4E71-8E3C-11AF310B476D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F066B4BE-7DB5-4E71-8E3C-11AF310B476D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F066B4BE-7DB5-4E71-8E3C-11AF310B476D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F066B4BE-7DB5-4E71-8E3C-11AF310B476D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FE2B3E6-B17F-4295-9659-B928194D4692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FE2B3E6-B17F-4295-9659-B928194D4692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FE2B3E6-B17F-4295-9659-B928194D4692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FE2B3E6-B17F-4295-9659-B928194D4692}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9ECBB92D-4E57-4BD5-BEA0-3F9B3081A9EC}
+	EndGlobalSection
+EndGlobal
